@@ -1,4 +1,4 @@
-# InfyTQ-Reference
+# InfyTQ Solutions with Reference Cheatsheets
 Last Year InfyTQ questions, Reference Cheatsheets for Python Programming
 InfyTQ is a free platform open to all engineering students in their third and fourth year across India. The platform encourages holistic development by imparting technical as well as professional skills and help them become industry ready.
 </div>
